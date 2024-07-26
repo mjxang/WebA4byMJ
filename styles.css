@@ -1,0 +1,58 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    color: #333;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #ffcb05; /* Pokémon yellow */
+}
+
+.navbar-brand, .nav-link {
+    color: #3d7dca; /* Pokémon blue */
+}
+
+.navbar-brand:hover, .nav-link:hover {
+    color: #a33a24; /* Pokémon red */
+}
+
+.hero {
+    background: url('https://media1.tenor.com/m/QerOjto_Tb0AAAAd/pikachu-dance-pikachu.gif') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.hero h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+}
+
+.hero p {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.5rem;
+}
+
+.card {
+    border: 2px solid #ffcb05; /* Pokémon yellow */
+    border-radius: 10px;
+}
+
+.card-title {
+    color: #3d7dca; /* Pokémon blue */
+}
+
+.btn-primary {
+    background-color: #3d7dca; /* Pokémon blue */
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #a33a24; /* Pokémon red */
+}
+
+footer {
+    background-color: #3d7dca; /* Pokémon blue */
+    color: #fff;
+}
